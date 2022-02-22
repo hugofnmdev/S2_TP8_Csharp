@@ -1,0 +1,16 @@
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/bin/Debug/net5.0/AsciiDot
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/bin/Debug/net5.0/AsciiDot.deps.json
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/bin/Debug/net5.0/AsciiDot.runtimeconfig.json
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/bin/Debug/net5.0/AsciiDot.runtimeconfig.dev.json
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/bin/Debug/net5.0/AsciiDot.dll
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/bin/Debug/net5.0/ref/AsciiDot.dll
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/bin/Debug/net5.0/AsciiDot.pdb
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.csproj.AssemblyReference.cache
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.AssemblyInfoInputs.cache
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.AssemblyInfo.cs
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.csproj.CoreCompileInputs.cache
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.dll
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/ref/AsciiDot.dll
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.pdb
+/home/hugofnm/Documents/EPITA/TPs/C#/tp8-hugo.meleiro/AsciiDot/AsciiDot/obj/Debug/net5.0/AsciiDot.genruntimeconfig.cache
